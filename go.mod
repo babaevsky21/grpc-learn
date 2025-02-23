@@ -1,4 +1,4 @@
-module github.com/babaevsky/grpc
+module github.com/babaevsky21/grpc
 
 go 1.24
 
